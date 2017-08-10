@@ -12,8 +12,13 @@
     "express": "^4.14.0",
     "morgan": "^1.7.0"
   },
-  "repository" : { 
-   "type" : "git",
-   "url" : "https://github.com/Arun5010/imad-app.git"
- }
+"repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/npm/npm.git"
+  }
+
+"repository" :
+  { "type" : "svn"
+  , "url" : "https://v8.googlecode.com/svn/trunk/"
+  }
 }
